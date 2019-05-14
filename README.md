@@ -1,14 +1,13 @@
 # example-repository
+
 This is an example repository description
 
-im a password
+This is an attempt to see how the integration with ClickUp works. 
 
-hey hey im a change.
+Another attempt. 
 
-im another change post checkbox
+Moving to Review. Trying again.
 
-another one.
+Sending back to In Progress
 
-another one.
-
-another one.
+Back to review.
